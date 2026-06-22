@@ -54,7 +54,7 @@ Navigate to the project directory:
 cd linkedinpage-dummy
 ```
 
-Install dependencies:
+Install dependencies.
 
 ```bash
 npm install
